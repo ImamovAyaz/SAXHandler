@@ -1,0 +1,60 @@
+<storage>
+    <articles>
+        <article>
+            <title>Parsing an XML File Using SAX Parser</title>
+            <content>SAX Parser's Lorem ipsum...</content>
+        </article>
+        <article>
+            <title>Parsing an XML File Using DOM Parser</title>
+            <content>DOM Parser's Lorem ipsum...</content>
+        </article>
+        <article>
+            <title>Parsing an XML File Using StAX Parser</title>
+            <content>StAX's Lorem ipsum...</content>
+        </article>
+		<article>
+            <title>New Node 1</title>
+            <content>Some content</content>
+        </article>
+		<article>
+            <title>New Node 2</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 3</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 4</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 5</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 6</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 7</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 8</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 9</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 10</title>
+            <content>Another content</content>
+        </article>
+        <article>
+            <title>New Node 11</title>
+            <content>Another content</content>
+        </article>
+    </articles>
+</storage>
